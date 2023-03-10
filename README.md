@@ -21,5 +21,7 @@ JAVASCRIPT
 DBMS
 CSS
 PHP
+
+
 CONCLUSION :
 The food delivery website will provide customers with a convenient and user-friendly platform to order food online. The website will also enable restaurant owners to expand their reach and connect with a broader customer base. The project's success will be measured by the number of customers and restaurant owners who use the website and their satisfaction levels.
